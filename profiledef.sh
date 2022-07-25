@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux"
+iso_name="archlinux-kde-live"
 iso_label="ARCH_KDE"
 iso_publisher="Aleksandar Bayrev <aleksandarbayrev@gmail.com>"
 iso_application="Arch Linux KDE Live/Rescue CD"
