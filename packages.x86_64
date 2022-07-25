@@ -124,6 +124,7 @@ xl2tpd
 zsh
 
 # Custom packages
+base-devel
 networkmanager
 network-manager-applet
 bluez
